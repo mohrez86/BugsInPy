@@ -27,4 +27,3 @@ fuzz | Run a test input generation from specific bug
 - Compile sources and tests, and run tests from current directory:
     - `bugsinpy-compile`
     - `bugsinpy-test`
-
